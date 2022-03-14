@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gidion1&theme=dark&show_icons=true)
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
